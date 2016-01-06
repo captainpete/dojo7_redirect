@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/captainpete/dojo7_redirect",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-50-g7d32ea3",
+			"Rev": "7d32ea3fa6590565c928b90a48178b60b96df98f"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/render",
+			"Rev": "b65063311fac6cbf84d3538f5715f7847e648322"
+		}
+	]
+}
